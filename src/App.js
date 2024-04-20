@@ -131,7 +131,7 @@ function App() {
 
         <div className="-z-10">
           <MapContainer center={[address.location.lat, address.location.lng]} zoom={13} scrollWheelZoom={true}
-            style={{ height: "600px", width: "100vw" }}>
+            style={{ height: "700px", width: "100vw" }}>
 
             <TileLayer
               attribution='&copy; <a href="https://www.openstreetmap.org/copyright">
