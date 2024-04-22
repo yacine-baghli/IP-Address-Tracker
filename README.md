@@ -46,4 +46,4 @@ The IP Address Tracker web application showcases the successful integration of a
 
 ## Explore the Application
 
-To experience the IP Address Tracker application, visit [this website]([insert_website_link_here](https://yacine-baghli-ip-address-tracker.netlify.app)).
+To experience the IP Address Tracker application, visit [MyApp](https://yacine-baghli-ip-address-tracker.netlify.app).
