@@ -1,7 +1,5 @@
 # IP Address Tracker
 
-This project represents the integration of a web design created by a graphic designer into a fully functional web application. The objective was to faithfully translate the design into code using HTML, CSS, and JavaScript. Additionally, JavaScript was used to interact with an API, providing dynamic data retrieval and enhancing the user experience.
-
 ## Overview
 
 The IP Address Tracker web application integrates the provided design with HTML and CSS to create a visually appealing and responsive user interface. JavaScript is employed to fetch data from an API, allowing users to input IP addresses and receive detailed geolocation information in real-time. The application aims to provide a seamless experience for users interested in exploring IP address details.
